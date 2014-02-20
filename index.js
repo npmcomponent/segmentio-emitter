@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var index = require('indexof');
+var index = require('component-indexof');
 
 /**
  * Expose `Emitter`.

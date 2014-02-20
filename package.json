@@ -1,17 +1,13 @@
 {
-  "name": "emitter",
+  "name": "segmentio-emitter",
   "description": "Event emitter",
   "version": "1.0.0",
+  "keywords": [
+    "emitter",
+    "events"
+  ],
   "dependencies": {
-    "indexof": "0.0.1"
+    "component-indexof": "git://github.com/npmcomponent/component-indexof.git"
   },
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "emitter": "index.js"
-    }
-  }
+  "license": "MIT"
 }
